@@ -12,5 +12,5 @@ Hi!👋 We're the SAR club at MSU and we build robots and other cool stuff!
 
 The following people are active on the GitHub and have admin permissions:
 
-- Moses
-- Eleazar
+- [Moses](https://github.com/barnie-moses)
+- [Eleazar](https://github.com/asaseele)
