@@ -51,3 +51,6 @@ The following people are active on GitHub and have admin permissions:
 [Website](msusar.org) · [Instagram](https://www.instagram.com/msu.sar/) · [LinkedIn](https://www.linkedin.com/company/msu-sar) · [Email](mailto:RSO.sarrobotics@msu.edu)
 
 </div>
+
+
+<!-- If you're reading this, Ishan was here :) -->
