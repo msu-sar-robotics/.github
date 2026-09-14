@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Swap this for an actual banner image/GIF of the team or a robot in action -->
 <img src="https://github.com/user-attachments/assets/5b761e03-b3c5-47d4-b890-9c4c282e06d2" alt="SAR Banner" width="100%">
 
 # MSU Spartan Autonomous Robotics Club
@@ -34,7 +33,7 @@ We're the SAR club at MSU and we build robots and other cool stuff!
 The following people are active on GitHub and have admin permissions:
  
 <details>
-<summary><strong>See admins 🔨</strong></summary>
+<summary><strong>See admins</strong></summary>
   
 - [Moses](https://github.com/barnie-moses)
   
